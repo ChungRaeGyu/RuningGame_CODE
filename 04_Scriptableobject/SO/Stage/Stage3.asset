@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 928588fdb5bdf7f42a444b40a09dd8c1, type: 3}
+  m_Name: Stage3
+  m_EditorClassIdentifier: 
+  stageNum: 3
+  monsterCount: 90
+  obstacle:
+  - {fileID: 4855986511635639068, guid: 9b8e4e7b78fe5de4a8b4c1149e79d297, type: 3}
+  - {fileID: 4023231024230435292, guid: 05a6fd02b8ff9a348ac2d6c3ad7cf7a1, type: 3}
